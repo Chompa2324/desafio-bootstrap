@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(170, 16, 16);
+    color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(170, 16, 16);
+    border: 5px solid white;
+    border-radius: 5px;
+    padding: 100px 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
